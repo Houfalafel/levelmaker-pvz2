@@ -4,7 +4,6 @@ for plants vs zombies 2
 
 FEATURES
 
-nothing yet
-i will start developmemt once i get to download a android
-app IDE
-which is when i finally get non-metered connection because..
+h.....  commandline?? yez...  
+it is going to start once i get freetime and i remember!
+yes  i am only a rookie programmer
